@@ -1,0 +1,1 @@
+cmd_lib/crc-ccitt.ko := /home/list_view/tmp/fsl-linaro-toolchain/bin/arm-fsl-linux-gnueabi-ld -EL -r  -T /home/list_view/tmp/linux-imx/scripts/module-common.lds --build-id  -o lib/crc-ccitt.ko lib/crc-ccitt.o lib/crc-ccitt.mod.o

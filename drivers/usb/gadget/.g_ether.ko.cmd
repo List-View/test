@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/g_ether.ko := /home/list_view/tmp/fsl-linaro-toolchain/bin/arm-fsl-linux-gnueabi-ld -EL -r  -T /home/list_view/tmp/linux-imx/scripts/module-common.lds --build-id  -o drivers/usb/gadget/g_ether.ko drivers/usb/gadget/g_ether.o drivers/usb/gadget/g_ether.mod.o

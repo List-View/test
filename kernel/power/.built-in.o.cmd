@@ -1,0 +1,1 @@
+cmd_kernel/power/built-in.o :=  /home/list_view/tmp/fsl-linaro-toolchain/bin/arm-fsl-linux-gnueabi-ld -EL    -r -o kernel/power/built-in.o kernel/power/main.o kernel/power/console.o kernel/power/process.o kernel/power/suspend.o kernel/power/poweroff.o 

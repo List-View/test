@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/g_file_storage.ko := /home/list_view/tmp/fsl-linaro-toolchain/bin/arm-fsl-linux-gnueabi-ld -EL -r  -T /home/list_view/tmp/linux-imx/scripts/module-common.lds --build-id  -o drivers/usb/gadget/g_file_storage.ko drivers/usb/gadget/g_file_storage.o drivers/usb/gadget/g_file_storage.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/video/backlight/built-in.o :=  /home/list_view/tmp/fsl-linaro-toolchain/bin/arm-fsl-linux-gnueabi-ld -EL    -r -o drivers/video/backlight/built-in.o drivers/video/backlight/backlight.o drivers/video/backlight/pwm_bl.o 

@@ -1,0 +1,1 @@
+cmd_fs/autofs4/autofs4.ko := /home/list_view/tmp/fsl-linaro-toolchain/bin/arm-fsl-linux-gnueabi-ld -EL -r  -T /home/list_view/tmp/linux-imx/scripts/module-common.lds --build-id  -o fs/autofs4/autofs4.ko fs/autofs4/autofs4.o fs/autofs4/autofs4.mod.o
